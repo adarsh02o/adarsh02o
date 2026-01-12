@@ -55,6 +55,8 @@ I am a Computer Science undergraduate with a strong foundation in **Backend Syst
 
 ### 📊 **GitHub Stats**
 
+### 📊 **GitHub Stats**
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adarsh02o&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh02o&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
